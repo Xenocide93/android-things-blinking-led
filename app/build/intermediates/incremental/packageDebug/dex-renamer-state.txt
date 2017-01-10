@@ -1,0 +1,7 @@
+#Wed Jan 11 00:10:21 ICT 2017
+base.0=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44008f787a3f2a05f30b118c8053487201dcae59
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_74ddadcfa40476e3dd436bc5c99fcb6edb55cc51/classes.dex
+base.1=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_74ddadcfa40476e3dd436bc5c99fcb6edb55cc51
+file.0=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44008f787a3f2a05f30b118c8053487201dcae59/classes.dex

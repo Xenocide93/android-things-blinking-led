@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Mon Jan 09 20:53:15 ICT 2017
+1.file=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+0.file=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.base=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/res/resources-debug.ap_
+0.base=/Users/Xenocide93/Android Things/things-template/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+count=2
