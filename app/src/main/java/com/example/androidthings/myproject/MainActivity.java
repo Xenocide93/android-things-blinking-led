@@ -94,7 +94,7 @@ public class MainActivity extends Activity {
                 Log.d(TAG, round + " toggleLed: OFF");
             } else {
                 // if LED is off, turn it on.
-                led.setValue(false);
+                led.setValue(true);
                 isLedOn = true;
                 Log.d(TAG, round + " toggleLed: ON");
             }
